@@ -1,0 +1,28 @@
+html,
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0%;
+}
+.home{
+	height: 100%;
+	width: 100%;
+	background:#b55465 ;
+	background-image:url(../image/Lord-Shiva.jpg);
+    background-size: cover;
+	background-attachment: fixed;
+    color:dodgerblue;
+}
+.title{
+	right: 0;
+	position: absolute;
+	
+}
+
+.About{
+	height: 100%;
+	width: 100%;
+	background-image:url(../image/76_big.jpg);
+	background-size: cover;
+	background-position: center center;
+}
